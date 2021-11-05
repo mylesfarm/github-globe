@@ -4,7 +4,7 @@
 
 ## Usage
 
-Terminal commands:
+Terminal commands can be found here:
 
 ```bash
 npm install      # Install dependencies
